@@ -7,7 +7,7 @@ This exercise is based on Andrej Karpathy's YouTube series on understanding the 
 
 I've built deep neural network architectures with PyTorch before. My objective in implementing this ground-up small-scale neural network is not to optimize for performance and efficiency. Instead, I wanted to implement it for three reasons:
 
-1) To understand the low-level knobs and levers that impact complex deep learning architectures. How can I take the robustness of my neural networks to the next level?
+1) To understand the low-level knobs that impact complex deep learning architectures. How can I take the robustness of my neural networks to the next level?
 
 2) To identify shortcomings in the state-of-the-art today. What ideas do we treat as immutable truths, when they were just one of the many options before their widespread adoption?
 
