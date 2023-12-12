@@ -3,9 +3,9 @@ Building neural networks without PyTorch
 
 ## Motivation
 
-This exercise is based on Andrej Karpathy's YouTube series on understanding the first principles of neural networks [1].
+This exercise follows Andrej Karpathy's YouTube series on understanding the first principles of neural networks [1].
 
-I've built deep neural network architectures with PyTorch before. I still wanted to implement this ground-up small-scale neural network for three reasons:
+I've built deep neural network architectures with PyTorch before. I still wanted to implement a ground-up small-scale neural network for three reasons:
 
 1) To understand the low-level knobs that impact complex deep learning architectures. How can I take the robustness of my neural networks to the next level?
 
